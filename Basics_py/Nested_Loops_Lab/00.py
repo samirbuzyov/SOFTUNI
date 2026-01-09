@@ -1,0 +1,1 @@
+print("L{0}{1}".format(2,1),end = "")
